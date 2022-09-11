@@ -1,3 +1,4 @@
 # Nape
 Something lol
-Dont ask me for private for this shit lol
+Nape is a upcoming script hub for multiple roblox games.
+It's on his pre-alpha phase so It's not accurate.
