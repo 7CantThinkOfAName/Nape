@@ -1,5 +1,5 @@
 local Library = loadstring(game:HttpGet("https://raw.githubusercontent.com/xHeptc/Kavo-UI-Library/main/source.lua"))()
-local Window = Library.CreateLib("Nape", "Synapse")
+local Window = Library.CreateLib("Nape 🔥", "Synapse")
 
 if game.PlaceId == 6872265039 --BEDWARS
 local General = Window:NewTab("General")
